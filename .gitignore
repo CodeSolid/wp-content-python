@@ -2,3 +2,8 @@
 *.pyc
 __pycache__
 *.json
+blog.ini
+notes.md
+venv
+.venv
+*.txt
