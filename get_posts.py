@@ -11,13 +11,14 @@ def posts_url(url, page):
     params = {"page": page}
     return url, params
 
-def get_categories(url):
+def get_blog_categories(url):
     url = f"{url}/wp-json/wp/v2/categories"
     r = requests.get(url)
     if r.status_code != 200:
         raise Exception("Unable to get post categories")
     json = r.json()
-    print(json)
+    posts_dictionary = {item["id"]: item["name"] for item in json}
+    return posts_dictionary
 
 def get_posts(url):
     all_posts = []
@@ -34,15 +35,20 @@ def get_posts(url):
 
 
 
-def format_list(items):
-    return ";".join(items)
+def get_post_categories(index_list, categories_dict):
+    cat_strings = [categories_dict[index] for index in index_list]
+    return cat_strings
 
-# posts = get_posts(BLOG_URL)
+
+categories_dict = get_blog_categories(BLOG_URL)
+posts = get_posts(BLOG_URL)
+
 # with open('all_posts_ordered.json', mode='wt') as f:
 #     dump(posts, f)
 
+for post in posts:
+    categories = get_post_categories(post["categories"], categories_dict)
+    categories_str = ";".join(categories)
+    print(f'{post["date"][0:10]},{post["link"]},{categories_str}')
 
-# for post in posts:
-#    print(f'{post["date"][0:10]},{post["link"]}')
 
-get_categories(BLOG_URL)
