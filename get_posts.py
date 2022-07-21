@@ -4,7 +4,6 @@ from pprint import pp
 
 BLOG_URL = "https://codesolid.com"
 
-
 def posts_url(url, page):
     """Returns the URL and params for a single page of posts"""
     url = f"{url}/wp-json/wp/v2/posts?orderby=date&order=desc"
@@ -12,14 +11,14 @@ def posts_url(url, page):
     return url, params
 
 def get_blog_categories(url):
+    """Get the current blog categories and convert it to an id-based dictionary"""
     url = f"{url}/wp-json/wp/v2/categories"
     r = requests.get(url)
     if r.status_code != 200:
         raise Exception("Unable to get post categories")
     json = r.json()
-    posts_dictionary = {item["id"]: item["name"] for item in json}
-    return posts_dictionary
-
+    return {item["id"]: item["name"] for item in json}
+    
 def get_posts(url):
     all_posts = []
     page = 1
