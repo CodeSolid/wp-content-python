@@ -1,6 +1,5 @@
 import configparser
 import requests
-import httpx
 from json import dump
 from pprint import pp
 
@@ -11,7 +10,7 @@ def get_config():
 
 def wp_url(url, page):
     """Returns the URL and params for a single page of posts"""
-    url = f"{url}/wp-json/wp/v2/posts?orderby=modified&order=desc"
+    url = f"{url}/wp-json/wp/v2/posts?orderby=date&order=desc"
     params = {"page": page}
     return url, params
 
@@ -21,7 +20,7 @@ def get_posts(url):
     while True:    
         url, params = wp_url(base_url, page)
         page = page + 1
-        r = httpx.get(url, params=params)
+        r  = requests.get(url, params=params)
         if r.status_code != 200:
             break        
         json = r.json()
@@ -34,6 +33,9 @@ base_url = config.get("blog_url")
 posts = get_posts(base_url)
 with open('all_posts_ordered.json', mode='wt') as f:
     dump(posts, f)
+for post in posts:
+   print(f'{post["date"][0:10]},{post["link"]}')
+
 # print("Getting posts for the URL defined in blog.ini")
 # print("This may take some time.  Please wait...")
 # for post in get_posts(base_url):
