@@ -39,15 +39,38 @@ def get_post_categories(index_list, categories_dict):
     return cat_strings
 
 
-categories_dict = get_blog_categories(BLOG_URL)
-posts = get_posts(BLOG_URL)
+
 
 # with open('all_posts_ordered.json', mode='wt') as f:
 #     dump(posts, f)
 
-for post in posts:
-    categories = get_post_categories(post["categories"], categories_dict)
-    categories_str = ";".join(categories)
-    print(f'{post["date"][0:10]},{post["link"]},{categories_str}')
+def massage_downloaded_posts(posts, categories):
+    massaged = []
+    for post in posts:
+        post_categories_as_list = get_post_categories(post["categories"], categories)
+        post_categories = ";".join(post_categories_as_list)
+        post_link = post["link"]
+        post_date = post["date"]
+        massaged.append({"url": post_link, "date": post_date, "categories": post_categories})        
+    return massaged
+
+def get_massaged_posts():
+    categories_dict = get_blog_categories(BLOG_URL)
+    posts = get_posts(BLOG_URL)
+    return massage_downloaded_posts(posts, categories_dict)
+
+def get_csv(massaged_posts):
+    csv = "url,date,categories\n"
+    for post in massaged_posts:
+        csv += f'{post["url"]},{post["date"]},{post["categories"]}\n'
+    return csv
+    
+
+posts = get_massaged_posts()
+csv = get_csv(posts)
+print(csv)
+
+
+
 
 
