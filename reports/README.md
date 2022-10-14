@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/how-to-calculate-moving-average-in-a-pandas-dataframe/

@@ -1,5 +1,15 @@
 url,date,categories
-https://codesolid.com/sympy-solving-math-equations-in-python/,2022-08-12T10:30:00,Math and Math Software;Python
+https://codesolid.com/conda-vs-pip/,2022-09-29T10:45:00,Python Tools
+https://codesolid.com/python-matrix-multiplication/,2022-09-22T09:48:00,Python Math and Science
+https://codesolid.com/run-python-online-with-jupyterlite/,2022-09-20T08:04:15,Python;Python Tools
+https://codesolid.com/jupyter-lite-python-in-the-browser-with-serverless-jupyter/,2022-09-14T16:59:00,Python;Python Tools
+https://codesolid.com/jupyter-password/,2022-09-12T13:02:00,Python Tools
+https://codesolid.com/creating-a-python-interactive-plot/,2022-09-09T16:35:00,Python Math and Science
+https://codesolid.com/pandas-groupby/,2022-09-08T13:21:00,Python Math and Science
+https://codesolid.com/programming-and-math-a-brief-translation-guide/,2022-08-29T10:45:00,Math and Math Software
+https://codesolid.com/scipy-vs-sympy-for-symbolic-math-let-us-never-speak-of-this-again/,2022-08-25T13:23:00,Math and Math Software;Python
+https://codesolid.com/python-string-examples-tutorial-and-practice-exercises/,2022-08-22T14:26:00,Learn to Code;Python for Beginners
+https://codesolid.com/sympy-solving-math-equations-in-python/,2022-08-12T10:30:00,Math and Math Software;Python Math and Science
 https://codesolid.com/python-shell-programming/,2022-08-08T15:00:00,Learn to Code;Python
 https://codesolid.com/debugging-python-in-vs-code/,2022-08-01T11:14:00,Python;Python Tools
 https://codesolid.com/teach-yourself-math/,2022-07-22T17:22:00,Math and Math Software
@@ -18,7 +28,7 @@ https://codesolid.com/python-dataclasses/,2022-05-21T16:38:00,Python
 https://codesolid.com/python-format-strings/,2022-05-16T18:30:00,Python;Python for Beginners
 https://codesolid.com/how-do-i-profile-python-code/,2022-05-12T06:15:00,Python;Python Tools
 https://codesolid.com/learning-c-and-python-the-perfect-duo-for-success/,2022-05-05T17:18:00,Learn to Code;Python
-https://codesolid.com/python-json-easily-work-with-dictionaries-files-and-custom-objects/,2022-05-03T10:19:00,Python;Python for Beginners
+https://codesolid.com/python-json-easily-work-with-dictionaries-files-and-custom-objects/,2022-05-03T10:19:00,Learn to Code;Python for Beginners
 https://codesolid.com/python-dictionaries-with-exercises/,2022-04-30T09:00:00,Python;Python for Beginners;Python Practice
 https://codesolid.com/python-on-docker-practice-ideas/,2022-04-24T14:40:00,Docker;Python Practice
 https://codesolid.com/thonny-the-most-beginner-friendly-python-ide/,2022-04-23T09:25:00,Learn to Code;Python for Beginners;Python Tools

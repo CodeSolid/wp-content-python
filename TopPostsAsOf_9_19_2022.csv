@@ -1,0 +1,376 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: CodeSolid
+# Property: CodeSolid.com
+# ----------------------------------------
+# 
+# Start date: 20220820
+# End date: 20220918
+Day,SymPy: Solving Math Equations in Python and Jupyter - CodeSolid.com,How to Work With Google Sheets In Python and Pandas - CodeSolid.com,CodeSolid.com - Python Learning Community,Python Indexing and Slicing: Complete Tutorial With Hands-On Exercises - CodeSolid.com,Pip vs Pipenv: Which is better and which to learn first? - CodeSolid.com
+0000,1,9,1,1,8
+0001,3,13,0,4,10
+0002,1,26,7,3,10
+0003,1,33,19,3,10
+0004,1,32,12,0,14
+0005,2,32,8,3,9
+0006,2,24,42,2,6
+0007,1,19,2,0,7
+0008,6,23,12,1,9
+0009,695,30,17,11,12
+0010,354,42,26,26,8
+0011,82,27,7,29,7
+0012,24,19,7,22,12
+0013,21,18,14,21,11
+0014,46,7,4,32,7
+0015,45,9,1,16,3
+0016,15,16,8,19,8
+0017,9,28,9,16,19
+0018,14,31,15,11,11
+0019,13,14,21,10,15
+0020,3,8,22,12,5
+0021,4,10,9,7,3
+0022,2,11,11,4,8
+0023,5,20,31,9,9
+0024,2,25,8,9,11
+0025,3,24,15,6,15
+0026,5,23,17,3,12
+0027,7,18,42,5,7
+0028,4,14,5,5,3
+0029,4,17,5,18,6
+
+# All Users
+# Start date: 20220820
+# End date: 20220918
+
+Page title and screen class,Views
+SymPy: Solving Math Equations in Python and Jupyter - CodeSolid.com,1375
+How to Work With Google Sheets In Python and Pandas - CodeSolid.com,622
+CodeSolid.com - Python Learning Community,397
+Python Indexing and Slicing: Complete Tutorial With Hands-On Exercises - CodeSolid.com,308
+Pip vs Pipenv: Which is better and which to learn first? - CodeSolid.com,275
+How To Use Docker Python Images and Docker Compose With Python - CodeSolid.com,223
+NumPy Examples — Practice Questions Make You an Expert,197
+What Are pyc Files and __pycache__ folders In Python ? - CodeSolid.com,168
+Installing Pyenv on a Mac (A Setup Guide With Usage Tips) - CodeSolid.com,158
+Pandas Examples and Review Questions to Make You an Expert - CodeSolid.com,129
+How To Profile Python Code - CodeSolid.com,120
+Python String Examples: Tutorial and Practice Exercises - CodeSolid.com,117
+Python Dataclass: Easily Automate Class Best Practices - CodeSolid.com,115
+Python Dunder Methods: The Ugliest Awesome Sauce - CodeSolid.com,112
+Python Lists for Beginners: A Complete Lesson With Exercises - CodeSolid.com,103
+Python Classes Zero to Expert: A Tutorial with Exercises - CodeSolid.com,92
+Random Python: Secrets and Random Values Made Easy - CodeSolid.com,79
+Boolean Expressions in Python: Beginner to Expert - CodeSolid.com,75
+Learn Python: Tutorials from Beginner to Expert - CodeSolid.com,66
+Creating a Python Interactive Plot Using Matplotlib in Jupyter,56
+Fast S3 Updates with Golang and Goroutines - CodeSolid.com,56
+PyCharm vs. VS Code: Which Is Better and Why? - CodeSolid.com,56
+"Python JSON: Easily Work With Dictionaries, Files, and Custom Objects - CodeSolid.com",56
+NumPy Examples: Practice Questions Make You an Expert,52
+How To Compare Python Dictionaries - CodeSolid.com,50
+My Journey to Beautiful Documentation With JupyterBook - CodeSolid.com,48
+Python With: Using and Writing Context Managers in Python - CodeSolid.com,47
+Python Practice - CodeSolid.com,42
+Python for AWS Lambda Functions: A Beginner’s Guide - CodeSolid.com,39
+Getting Things Done With Dendron and VS Code — First Look - CodeSolid.com,36
+How To Separate Source and Tests in Python - CodeSolid.com,35
+Page not found – CodeSolid.com,35
+The Python For Loop: Complete Tutorial and Practice Exercises - CodeSolid.com,34
+"Getting Things Done with GitHub, Markdown, and Visual Studio Code - CodeSolid.com",29
+Thonny: The Most Beginner Friendly Python IDE - CodeSolid.com,29
+How to Use the Pandas Groupby Method?,27
+Learn Basic Command Line Skills and Rock Your Workflow - CodeSolid.com,27
+Python Function Arguments: The Complete Guide - CodeSolid.com,27
+Python Shell Programming: Overview and Top Tools,25
+Introducing Sage Math: Symbolic Math Software In Python - CodeSolid.com,24
+Simple Vagrant Ansible Local Example - CodeSolid.com,23
+Jupyter Notebook: A Complete Introduction - CodeSolid.com,21
+Python Practice: More Python on Docker Project Ideas - CodeSolid.com,21
+Python Package Example: Setuptools - CodeSolid.com,20
+SciPy vs. SymPy for Symbolic Math: Let Us Never Speak of This Again - CodeSolid.com,20
+How To Install Pip and Conda on the Same Machine - CodeSolid.com,18
+Private: How to Use the Pandas Groupby Method? - CodeSolid.com,17
+Python Dictionaries for Beginners: A Complete Lesson With Exercises - CodeSolid.com,17
+Python Date and Time Functions: The Complete Tutorial - CodeSolid.com,15
+Learning C++ and Python: The Perfect Duo for Success - CodeSolid.com,14
+Pip vs. Conda: Two Top Tools for Managing Python Packages - CodeSolid.com,14
+John Lockwood - CodeSolid.com,13
+Python Operators: The Building Blocks of Successful Code - CodeSolid.com,13
+How to Practice Python: Data Science and Pandas - CodeSolid.com,12
+Jupyter Lite: Python in the Browser with Serverless Jupyter,12
+"Teach Yourself Math: Resources, Techniques, and Approach",12
+The Function In Python: Complete Tutorial And Best Practices - CodeSolid.com,12
+Debugging Python in VS Code - CodeSolid.com,11
+Is Python Slow? Separating the Myths from the Facts - CodeSolid.com,11
+Jupyter Password: Easy Notebook and Lab Configuration,11
+How To Practice Python - CodeSolid.com,10
+Is PyPy a Faster Version of Python? - CodeSolid.com,10
+Python Docker Examples: SageMath in a Container - CodeSolid.com,10
+Python Format Strings: Beginner to Expert - CodeSolid.com,10
+Find Files in Python: Complete Cookbook for Searching Files and Folders - CodeSolid.com,9
+Python - CodeSolid.com,9
+Python Generator Functions: The Complete Guide - CodeSolid.com,9
+Learning Git: What To Know When You’re a Beginner - CodeSolid.com,8
+Private: Python String Examples: Tutorial and Practice Exercises - CodeSolid.com,8
+What Is a Python Package? - CodeSolid.com,8
+Best Python Careers: New Research Reveals Top Fields - CodeSolid.com,7
+Installing a Python and Git Development Environment on Windows - CodeSolid.com,7
+Programming and Math: A Brief Translation Guide - CodeSolid.com,7
+Python for Beginners - CodeSolid.com,7
+Aizhamal Zhetigenova - CodeSolid.com,6
+Private: Creating a Python Interactive Plot Using Matplotlib in Jupyter,6
+CodeSolid.com - Python Learning Community - Page 2,5
+Learn to Code - CodeSolid.com,5
+Useful Collection Classes in Python You May Not Know - CodeSolid.com,5
+Private: Creating a Python Interactive Plot - CodeSolid.com,4
+Private: Creating a Python Interactive Plot in Jupyter - CodeSolid.com,4
+The Middle Way of Software Development - CodeSolid.com,4
+Debugging Python in VS Code: Tutorial and Walkthrough - CodeSolid.com,3
+Golang - CodeSolid.com,3
+Private: How to Use the Pandas Groupby Method - CodeSolid.com,3
+Seaborn - CodeSolid.com,3
+Using TestNG With Spring - CodeSolid.com,3
+What Are Good Projects To Practice In Python? - CodeSolid.com,3
+"Your First Programming Language Should be Python, Not JavaScript - CodeSolid.com",3
+Aizhamal - CodeSolid.com,2
+Building a Docker Golang Container - CodeSolid.com,2
+CodeSolid.com - Python Learning Community - Page 7,2
+CodeSolid.com - Python Learning Community - Page 8,2
+CodeSolid.com - Python Learning Community - Page 9,2
+GTD - CodeSolid.com,2
+John Lockwood - CodeSolid.com - Page 2,2
+"June, 2022 - CodeSolid.com",2
+Numpy - CodeSolid.com,2
+Pandas - CodeSolid.com,2
+Private: Creating a Python Interactive Plot Using Matplotlib in Jupyter - CodeSolid.com,2
+Private: Jupyter Password Authentication: Easy Notebook and Lab Configuration - CodeSolid.com,2
+Python Practice - CodeSolid.com - Page 2,2
+Sympy - CodeSolid.com,2
+Vagrant - CodeSolid.com,2
+Why Is Python Popular? - CodeSolid.com,2
+- CodeSolid.com,1
+09 - CodeSolid.com,1
+A Coop Coding Bootcamp - CodeSolid.com,1
+Blog - CodeSolid.com,1
+CodeSolid.com - Python Learning Community - Page 3,1
+CodeSolid.com - Python Learning Community - Page 4,1
+CodeSolid.com - Python Learning Community - Page 5,1
+CodeSolid.com - Python Learning Community - Page 6,1
+Contact - CodeSolid.com,1
+Exploring Python Objects with the dir and type functions - CodeSolid.com,1
+"Installing a Python and Git Development Environment on Windows, Part 2 - CodeSolid.com",1
+Is Julia Easy to Learn for Python Developers? - CodeSolid.com,1
+Is Python Free? Yes! We List the Best Free Tools - CodeSolid.com,1
+"January, 2022 - CodeSolid.com",1
+John Lockwood - CodeSolid.com - Page 3,1
+John Lockwood - CodeSolid.com - Page 4,1
+Jupyter - CodeSolid.com,1
+Jupyter Lab - CodeSolid.com,1
+Math and Math Software - CodeSolid.com,1
+NumPy - CodeSolid.com,1
+Pip vs Pipenv: Cái nào tốt hơn và cái nào nên học trước? - CodeSolid.com,1
+Private: How to Use the Pandas Groupby Method￼￼ - CodeSolid.com,1
+Private: Jupyter Lite: Python in the Browser with Serverless Jupyter - CodeSolid.com,1
+Private: SciPy vs. SymPy for Symbolic Math: Let Us Never Speak of This Again - CodeSolid.com,1
+Python Generator Functions - CodeSolid.com,1
+Python Lists - CodeSolid.com,1
+Python Math and Science - CodeSolid.com,1
+"Stop Being a Junior Developer. No, Seriously, Cut It Out. - CodeSolid.com",1
+The Strange Zen of 100 Days of Python - CodeSolid.com,1
+debugging - CodeSolid.com,1
+tuples - CodeSolid.com,1
+﻿﻿​,1
+
+# All Users
+# Start date: 20220820
+# End date: 20220918
+
+Page title and screen class,Views,Users,New users,Views per user,Average engagement time,Unique user scrolls,Event count,Conversions,Total revenue
+SymPy: Solving Math Equations in Python and Jupyter - CodeSolid.com,1375,1100,1085,1.25,64.30090909090909,178,4557,0,0
+How to Work With Google Sheets In Python and Pandas - CodeSolid.com,622,545,539,1.1412844036697247,54.29724770642202,189,2568,0,0
+CodeSolid.com - Python Learning Community,397,104,75,3.8173076923076925,16.66346153846154,19,1389,0,0
+Python Indexing and Slicing: Complete Tutorial With Hands-On Exercises - CodeSolid.com,308,213,206,1.4460093896713615,70.59154929577464,57,1211,0,0
+Pip vs Pipenv: Which is better and which to learn first? - CodeSolid.com,275,253,245,1.0869565217391304,100.39920948616601,81,1165,0,0
+How To Use Docker Python Images and Docker Compose With Python - CodeSolid.com,223,177,173,1.2598870056497176,48.40112994350282,25,839,0,0
+NumPy Examples — Practice Questions Make You an Expert,197,128,112,1.5390625,61.9921875,33,646,0,0
+What Are pyc Files and __pycache__ folders In Python ? - CodeSolid.com,168,156,154,1.0769230769230769,49.98076923076923,28,677,0,0
+Installing Pyenv on a Mac (A Setup Guide With Usage Tips) - CodeSolid.com,158,133,130,1.1879699248120301,37.00751879699248,29,649,0,0
+Pandas Examples and Review Questions to Make You an Expert - CodeSolid.com,129,86,81,1.5,40.97674418604651,26,469,0,0
+How To Profile Python Code - CodeSolid.com,120,102,91,1.1764705882352942,57.09803921568628,17,438,0,0
+Python String Examples: Tutorial and Practice Exercises - CodeSolid.com,117,77,64,1.5194805194805194,86.50649350649351,20,398,0,0
+Python Dataclass: Easily Automate Class Best Practices - CodeSolid.com,115,108,103,1.0648148148148149,80.82407407407408,36,482,0,0
+Python Dunder Methods: The Ugliest Awesome Sauce - CodeSolid.com,112,61,51,1.8360655737704918,56.78688524590164,4,321,0,0
+Python Lists for Beginners: A Complete Lesson With Exercises - CodeSolid.com,103,79,76,1.3037974683544304,68.79746835443038,27,414,0,0
+Python Classes Zero to Expert: A Tutorial with Exercises - CodeSolid.com,92,76,68,1.2105263157894737,69.73684210526316,27,354,0,0
+Random Python: Secrets and Random Values Made Easy - CodeSolid.com,79,63,58,1.253968253968254,66.77777777777777,12,293,0,0
+Boolean Expressions in Python: Beginner to Expert - CodeSolid.com,75,71,67,1.056338028169014,45.647887323943664,11,301,0,0
+Learn Python: Tutorials from Beginner to Expert - CodeSolid.com,66,47,23,1.4042553191489362,44.723404255319146,16,193,0,0
+Creating a Python Interactive Plot Using Matplotlib in Jupyter,56,46,39,1.2173913043478262,50.47826086956522,16,206,0,0
+Fast S3 Updates with Golang and Goroutines - CodeSolid.com,56,47,46,1.1914893617021276,66.76595744680851,20,244,0,0
+PyCharm vs. VS Code: Which Is Better and Why? - CodeSolid.com,56,51,51,1.0980392156862746,148.90196078431373,21,237,0,0
+"Python JSON: Easily Work With Dictionaries, Files, and Custom Objects - CodeSolid.com",56,40,39,1.4,48.65,11,199,0,0
+NumPy Examples: Practice Questions Make You an Expert,52,36,27,1.4444444444444444,50.25,7,175,0,0
+How To Compare Python Dictionaries - CodeSolid.com,50,43,43,1.1627906976744187,33,13,213,0,0
+My Journey to Beautiful Documentation With JupyterBook - CodeSolid.com,48,40,40,1.2,72.175,17,201,0,0
+Python With: Using and Writing Context Managers in Python - CodeSolid.com,47,29,27,1.6206896551724137,53.724137931034484,6,157,0,0
+Python Practice - CodeSolid.com,42,28,8,1.5,22.785714285714285,6,106,0,0
+Python for AWS Lambda Functions: A Beginner’s Guide - CodeSolid.com,39,33,31,1.1818181818181819,35.63636363636363,11,156,0,0
+Getting Things Done With Dendron and VS Code — First Look - CodeSolid.com,36,30,25,1.2,69.96666666666667,6,129,0,0
+How To Separate Source and Tests in Python - CodeSolid.com,35,30,30,1.1666666666666667,108.46666666666667,15,147,0,0
+Page not found – CodeSolid.com,35,27,17,1.2962962962962963,3.8518518518518516,2,105,0,0
+The Python For Loop: Complete Tutorial and Practice Exercises - CodeSolid.com,34,29,28,1.1724137931034482,26.896551724137932,12,131,0,0
+"Getting Things Done with GitHub, Markdown, and Visual Studio Code - CodeSolid.com",29,25,23,1.16,26.12,13,118,0,0
+Thonny: The Most Beginner Friendly Python IDE - CodeSolid.com,29,26,21,1.1153846153846154,21.53846153846154,9,102,0,0
+How to Use the Pandas Groupby Method?,27,21,20,1.2857142857142858,72.38095238095238,5,113,0,0
+Learn Basic Command Line Skills and Rock Your Workflow - CodeSolid.com,27,18,15,1.5,60.94444444444444,3,88,0,0
+Python Function Arguments: The Complete Guide - CodeSolid.com,27,25,24,1.08,59.52,5,105,0,0
+Python Shell Programming: Overview and Top Tools,25,23,15,1.0869565217391304,28.695652173913043,3,85,0,0
+Introducing Sage Math: Symbolic Math Software In Python - CodeSolid.com,24,19,12,1.263157894736842,28.05263157894737,8,74,0,0
+Simple Vagrant Ansible Local Example - CodeSolid.com,23,16,16,1.4375,40.5625,4,88,0,0
+Jupyter Notebook: A Complete Introduction - CodeSolid.com,21,7,6,3,35.285714285714285,0,72,0,0
+Python Practice: More Python on Docker Project Ideas - CodeSolid.com,21,18,15,1.1666666666666667,38.72222222222222,3,75,0,0
+Python Package Example: Setuptools - CodeSolid.com,20,18,18,1.1111111111111112,52.72222222222222,7,86,0,0
+SciPy vs. SymPy for Symbolic Math: Let Us Never Speak of This Again - CodeSolid.com,20,11,7,1.8181818181818181,42.36363636363637,5,78,0,0
+How To Install Pip and Conda on the Same Machine - CodeSolid.com,18,17,17,1.0588235294117647,48.588235294117645,7,75,0,0
+Private: How to Use the Pandas Groupby Method? - CodeSolid.com,17,0,0,0,0,0,76,0,0
+Python Dictionaries for Beginners: A Complete Lesson With Exercises - CodeSolid.com,17,15,8,1.1333333333333333,151.86666666666667,4,63,0,0
+Python Date and Time Functions: The Complete Tutorial - CodeSolid.com,15,14,14,1.0714285714285714,31,0,59,0,0
+Learning C++ and Python: The Perfect Duo for Success - CodeSolid.com,14,12,10,1.1666666666666667,75.08333333333333,3,46,0,0
+Pip vs. Conda: Two Top Tools for Managing Python Packages - CodeSolid.com,14,12,11,1.1666666666666667,50.916666666666664,4,50,0,0
+John Lockwood - CodeSolid.com,13,8,2,1.625,16.125,0,27,0,0
+Python Operators: The Building Blocks of Successful Code - CodeSolid.com,13,10,2,1.3,11.5,1,29,0,0
+How to Practice Python: Data Science and Pandas - CodeSolid.com,12,9,5,1.3333333333333333,33.44444444444444,4,41,0,0
+Jupyter Lite: Python in the Browser with Serverless Jupyter,12,4,1,3,12.75,2,44,0,0
+"Teach Yourself Math: Resources, Techniques, and Approach",12,10,1,1.2,61.3,2,29,0,0
+The Function In Python: Complete Tutorial And Best Practices - CodeSolid.com,12,9,6,1.3333333333333333,100.22222222222223,2,43,0,0
+Debugging Python in VS Code - CodeSolid.com,11,11,9,1,36.27272727272727,2,40,0,0
+Is Python Slow? Separating the Myths from the Facts - CodeSolid.com,11,11,11,1,129.1818181818182,2,47,0,0
+Jupyter Password: Easy Notebook and Lab Configuration,11,7,7,1.5714285714285714,17.142857142857142,1,48,0,0
+How To Practice Python - CodeSolid.com,10,8,6,1.25,13.875,1,35,0,0
+Is PyPy a Faster Version of Python? - CodeSolid.com,10,10,10,1,45.7,3,40,0,0
+Python Docker Examples: SageMath in a Container - CodeSolid.com,10,10,10,1,106.8,7,50,0,0
+Python Format Strings: Beginner to Expert - CodeSolid.com,10,9,7,1.1111111111111112,51,2,33,0,0
+Find Files in Python: Complete Cookbook for Searching Files and Folders - CodeSolid.com,9,9,9,1,85,1,37,0,0
+Python - CodeSolid.com,9,8,1,1.125,15.125,0,19,0,0
+Python Generator Functions: The Complete Guide - CodeSolid.com,9,8,7,1.125,117,0,35,0,0
+Learning Git: What To Know When You’re a Beginner - CodeSolid.com,8,5,3,1.6,106.6,2,27,0,0
+Private: Python String Examples: Tutorial and Practice Exercises - CodeSolid.com,8,0,0,0,0,0,36,0,0
+What Is a Python Package? - CodeSolid.com,8,8,3,1,52.125,1,20,0,0
+Best Python Careers: New Research Reveals Top Fields - CodeSolid.com,7,7,7,1,3.142857142857143,3,26,0,0
+Installing a Python and Git Development Environment on Windows - CodeSolid.com,7,6,6,1.1666666666666667,16.666666666666668,2,27,0,0
+Programming and Math: A Brief Translation Guide - CodeSolid.com,7,6,1,1.1666666666666667,44.5,1,23,0,0
+Python for Beginners - CodeSolid.com,7,6,3,1.1666666666666667,7.5,1,18,0,0
+Aizhamal Zhetigenova - CodeSolid.com,6,3,0,2,7,2,18,0,0
+Private: Creating a Python Interactive Plot Using Matplotlib in Jupyter,6,0,0,0,0,0,24,0,0
+CodeSolid.com - Python Learning Community - Page 2,5,4,0,1.25,19.75,0,12,0,0
+Learn to Code - CodeSolid.com,5,4,0,1.25,18.25,2,12,0,0
+Useful Collection Classes in Python You May Not Know - CodeSolid.com,5,3,2,1.6666666666666667,5,0,20,0,0
+Private: Creating a Python Interactive Plot - CodeSolid.com,4,0,0,0,0,0,18,0,0
+Private: Creating a Python Interactive Plot in Jupyter - CodeSolid.com,4,0,0,0,0,0,18,0,0
+The Middle Way of Software Development - CodeSolid.com,4,2,1,2,98,1,12,0,0
+Debugging Python in VS Code: Tutorial and Walkthrough - CodeSolid.com,3,2,1,1.5,26.5,1,14,0,0
+Golang - CodeSolid.com,3,0,0,0,0,0,20,0,0
+Private: How to Use the Pandas Groupby Method - CodeSolid.com,3,0,0,0,0,0,14,0,0
+Seaborn - CodeSolid.com,3,0,0,0,0,0,20,0,0
+Using TestNG With Spring - CodeSolid.com,3,3,3,1,109.66666666666667,2,15,0,0
+What Are Good Projects To Practice In Python? - CodeSolid.com,3,2,2,1.5,9,0,13,0,0
+"Your First Programming Language Should be Python, Not JavaScript - CodeSolid.com",3,2,2,1.5,36,0,11,0,0
+Aizhamal - CodeSolid.com,2,0,0,0,0,0,6,0,0
+Building a Docker Golang Container - CodeSolid.com,2,2,2,1,4,0,9,0,0
+CodeSolid.com - Python Learning Community - Page 7,2,2,0,1,11.5,0,3,0,0
+CodeSolid.com - Python Learning Community - Page 8,2,2,0,1,10,0,3,0,0
+CodeSolid.com - Python Learning Community - Page 9,2,2,0,1,0,0,2,0,0
+GTD - CodeSolid.com,2,1,1,2,9,1,6,0,0
+John Lockwood - CodeSolid.com - Page 2,2,1,0,2,0,0,2,0,0
+"June, 2022 - CodeSolid.com",2,2,2,1,1.5,2,8,0,0
+Numpy - CodeSolid.com,2,0,0,0,0,0,12,0,0
+Pandas - CodeSolid.com,2,0,0,0,0,0,12,0,0
+Private: Creating a Python Interactive Plot Using Matplotlib in Jupyter - CodeSolid.com,2,0,0,0,0,0,10,0,0
+Private: Jupyter Password Authentication: Easy Notebook and Lab Configuration - CodeSolid.com,2,0,0,0,0,0,8,0,0
+Python Practice - CodeSolid.com - Page 2,2,1,0,2,30,0,4,0,0
+Sympy - CodeSolid.com,2,0,0,0,0,0,10,0,0
+Vagrant - CodeSolid.com,2,0,0,0,0,0,12,0,0
+Why Is Python Popular? - CodeSolid.com,2,2,2,1,0,0,6,0,0
+- CodeSolid.com,1,1,0,1,15,0,2,0,0
+09 - CodeSolid.com,1,1,0,1,0,0,2,0,0
+A Coop Coding Bootcamp - CodeSolid.com,1,1,1,1,6,0,4,0,0
+Blog - CodeSolid.com,1,1,1,1,0,0,3,0,0
+CodeSolid.com - Python Learning Community - Page 3,1,1,0,1,34,0,2,0,0
+CodeSolid.com - Python Learning Community - Page 4,1,1,0,1,30,0,2,0,0
+CodeSolid.com - Python Learning Community - Page 5,1,1,0,1,9,0,2,0,0
+CodeSolid.com - Python Learning Community - Page 6,1,1,0,1,25,0,2,0,0
+Contact - CodeSolid.com,1,1,1,1,0,0,3,0,0
+Exploring Python Objects with the dir and type functions - CodeSolid.com,1,1,1,1,0,0,3,0,0
+"Installing a Python and Git Development Environment on Windows, Part 2 - CodeSolid.com",1,1,0,1,12,0,2,0,0
+Is Julia Easy to Learn for Python Developers? - CodeSolid.com,1,1,0,1,102,1,2,0,0
+Is Python Free? Yes! We List the Best Free Tools - CodeSolid.com,1,1,1,1,38,0,4,0,0
+"January, 2022 - CodeSolid.com",1,1,1,1,0,0,3,0,0
+John Lockwood - CodeSolid.com - Page 3,1,1,0,1,0,0,1,0,0
+John Lockwood - CodeSolid.com - Page 4,1,1,0,1,0,0,1,0,0
+Jupyter - CodeSolid.com,1,0,0,0,0,0,6,0,0
+Jupyter Lab - CodeSolid.com,1,0,0,0,0,0,6,0,0
+Math and Math Software - CodeSolid.com,1,1,0,1,25,1,3,0,0
+NumPy - CodeSolid.com,1,0,0,0,0,0,6,0,0
+Pip vs Pipenv: Cái nào tốt hơn và cái nào nên học trước? - CodeSolid.com,1,1,0,1,12,0,3,0,0
+Private: How to Use the Pandas Groupby Method￼￼ - CodeSolid.com,1,0,0,0,0,0,4,0,0
+Private: Jupyter Lite: Python in the Browser with Serverless Jupyter - CodeSolid.com,1,0,0,0,0,0,2,0,0
+Private: SciPy vs. SymPy for Symbolic Math: Let Us Never Speak of This Again - CodeSolid.com,1,0,0,0,0,0,4,0,0
+Python Generator Functions - CodeSolid.com,1,0,0,0,0,0,6,0,0
+Python Lists - CodeSolid.com,1,0,0,0,0,0,6,0,0
+Python Math and Science - CodeSolid.com,1,1,0,1,37,1,3,0,0
+"Stop Being a Junior Developer. No, Seriously, Cut It Out. - CodeSolid.com",1,1,1,1,59,0,4,0,0
+The Strange Zen of 100 Days of Python - CodeSolid.com,1,1,0,1,114,0,3,0,0
+debugging - CodeSolid.com,1,1,0,1,0,0,6,0,0
+tuples - CodeSolid.com,1,1,0,1,9,0,3,0,0
+﻿﻿​,1,1,1,1,0,0,5,0,0
+Ciągi formatujące Pythona: od początkującego do eksperta - CodeSolid.com,0,1,0,0,799,1,2,0,0
+Classi Python da zero a esperti: un tutorial con esercizi - CodeSolid.com,0,1,0,0,67,1,5,0,0
+CodeSolid.com - Python 学习社区,0,1,0,0,18,1,2,0,0
+CodeSolid.com - Python 学习社区 - 第 7 页,0,1,0,0,15,1,2,0,0
+CodeSolid.com - Python 学习社区 - 第 8 页,0,1,0,0,12,1,2,0,0
+CodeSolid.com - Python 学习社区 - 第 9 页,0,1,0,0,7,1,2,0,0
+CodeSolid.com - Python 학습 커뮤니티,0,1,0,0,17,1,2,0,0
+Como trabalhar com o Planilhas Google em Python e Pandas - CodeSolid.com,0,1,0,0,14,0,1,0,0
+"Cómo hacer las cosas con GitHub, Markdown y Visual Studio Code - CodeSolid.com",0,1,0,0,126,0,1,0,0
+Cómo trabajar con Google Sheets en Python y Pandas - CodeSolid.com,0,1,0,0,95,1,2,0,0
+Cómo usar imágenes Docker Python y Docker Compose con Python - CodeSolid.com,0,2,0,0,638,2,5,0,0
+Golang と Goroutines による S3 の高速更新 - CodeSolid.com,0,1,0,0,92,0,1,0,0
+Jak ćwiczyć Pythona: nauka o danych i pandy - CodeSolid.com,0,1,0,0,26,1,6,0,0
+John Lockwood - CodeSolid.com - 第 2 页,0,1,0,0,43,1,3,0,0
+John Lockwood - CodeSolid.com - 第 3 页,0,1,0,0,31,1,2,0,0
+John Lockwood - CodeSolid.com - 第 4 页,0,1,0,0,0,0,2,0,0
+Klasy Pythona od zera do eksperta: samouczek z ćwiczeniami - CodeSolid.com,0,1,0,0,985,1,3,0,0
+Metody Pythona Dundera: najbrzydszy niesamowity sos - CodeSolid.com,0,0,0,0,0,0,2,0,0
+Operatory Pythona: elementy składowe udanego kodu - CodeSolid.com,0,1,0,0,113,1,2,0,0
+Pip vs Pipenv : Quel est le meilleur et lequel apprendre en premier ? - CodeSolid.com,0,1,0,0,319,1,2,0,0
+"Pip vs Pipenv: Co jest lepsze, a czego się najpierw nauczyć? - CodeSolid.com",0,1,0,0,10,0,1,0,0
+Pip vs Pipenv: ¿Cuál es mejor y cuál aprender primero? - CodeSolid.com,0,2,0,0,629,2,6,0,0
+Pip vs Pipenv：哪个更好，先学习哪个？- CodeSolid.com,0,1,0,0,194,1,2,0,0
+Pip проти Pipenv: що краще і що вивчати в першу чергу? - CodeSolid.com,0,1,0,0,411,0,1,0,0
+Praktyka Pythona - CodeSolid.com,0,1,0,0,26,0,1,0,0
+Python Dataclass: łatwa automatyzacja najlepszych praktyk dotyczących klas — CodeSolid.com,0,1,0,0,81,1,2,0,0
+Python 类从零到专家：练习教程 - CodeSolid.com,0,1,0,0,68,1,4,0,0
+Python 索引和切片：包含动手练习的完整教程 - CodeSolid.com,0,2,0,0,52.5,2,5,0,0
+Python 运算符：成功代码的基石 - CodeSolid.com,0,1,0,0,0,0,2,0,0
+SymPy: Riešenie matematických rovníc v Pythone a Jupyteri - CodeSolid.com,0,1,0,0,35,0,1,0,0
+SymPy: risoluzione di equazioni matematiche in Python e Jupyter - CodeSolid.com,0,1,0,0,0,0,2,0,0
+SymPy: Решение математических уравнений на Python и Jupyter - CodeSolid.com,0,1,0,0,10,0,1,0,0
+SymPy: решение математических уравнений в Python и Jupyter - CodeSolid.com,0,3,0,0,462.6666666666667,1,6,0,0
+SymPy：在 Python 和 Jupyter 中求解数学方程 - CodeSolid.com,0,2,0,0,35.5,1,3,0,0
+Τι είναι τα αρχεία pyc και οι φάκελοι __pycache__ στην Python; - CodeSolid.com,0,1,0,0,420,0,1,0,0
+Класс данных Python: лучшие практики простой автоматизации классов - CodeSolid.com,0,1,0,0,62,1,1,0,0
+Пример пакета Python: Setuptools - CodeSolid.com,0,1,0,0,30,0,1,0,0
+"Примеры Pandas и обзорные вопросы, которые сделают вас экспертом - CodeSolid.com",0,1,0,0,1,1,3,0,0
+பைதான் இன்டெக்சிங் மற்றும் ஸ்லைசிங்: ஹேண்ட்ஸ்-ஆன் பயிற்சிகளுடன் முழுமையான பயிற்சி - CodeSolid.com,0,1,0,0,20,0,1,0,0
+​​﻿​﻿﻿How to Work With Google Sheets In Python and Pandas - CodeSolid.com,0,1,0,0,52,1,2,0,0
+为什么 Python 很受欢迎？ - CodeSolid.com,0,1,0,0,0,0,2,0,0
+什么是pyc文件和__pycache__文件夹 在Python ？- CodeSolid.com,0,1,0,0,9,0,1,0,0
+在 Mac 上安装 Pyenv（带有使用提示的安装指南） - CodeSolid.com,0,1,0,0,116,0,2,0,0
+在 Windows 上安装 Python 和 Git 开发环境 - CodeSolid.com,0,1,0,0,61,1,2,0,0
+在Mac上安装Pyenv（带有使用提示的设置指南）- CodeSolid.com,0,1,0,0,0,0,2,0,0
+如何在同一台计算机上安装管道和孔达 - CodeSolid.com,0,1,0,0,39,0,1,0,0
+学习 Python：从初学者到专家的教程 - CodeSolid.com,0,2,0,0,36.5,1,4,0,0
+约翰洛克伍德 - CodeSolid.com,0,1,0,0,89,1,6,0,0
+随机 Python：让秘密和随机值变得简单 - CodeSolid.com,0,1,0,0,102,1,4,0,0
+隨機 Python：讓秘密和隨機值變得簡單 - CodeSolid.com,0,1,0,0,165,1,1,0,0
+💤 Python With: Using and Writing Context Managers in Python - CodeSolid.com,0,0,0,0,0,0,2,0,0

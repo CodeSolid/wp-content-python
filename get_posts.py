@@ -49,9 +49,13 @@ def massage_downloaded_posts(posts, categories):
     for post in posts:
         post_categories_as_list = get_post_categories(post["categories"], categories)
         post_categories = ";".join(post_categories_as_list)
-        post_link = post["link"]
-        post_date = post["date"]
-        massaged.append({"url": post_link, "date": post_date, "categories": post_categories})        
+        this_post = {
+            "url": post["link"],
+            "date": post["date"],
+            "categories": post_categories,
+            "title": post["title"]["rendered"]
+        }        
+        massaged.append(this_post)
     return massaged
 
 def get_massaged_posts():
@@ -60,9 +64,9 @@ def get_massaged_posts():
     return massage_downloaded_posts(posts, categories_dict)
 
 def get_csv(massaged_posts):
-    csv = "url,date,categories\n"
+    csv = "title,url,date,categories\n"
     for post in massaged_posts:
-        csv += f'{post["url"]},{post["date"]},{post["categories"]}\n'
+        csv += f"{post["title"]},{post["url"]},{post["date"]},{post["categories"]}\n"
     return csv
     
 
