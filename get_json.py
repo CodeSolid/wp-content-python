@@ -1,11 +1,22 @@
+"""Eventually should just get posts via Wordpress API.  
+    Currently does more before saving to JSON.  
+    Also does not save original json.
 
+    There should be:
+        * Something that just gets original json and saves it.
+        * Something that processes it to either csv or JSON.  
+        Each element processor should be a lambda or function, and should be ordered
+
+Raises:
+    Exception: _description_
+
+Returns:
+    _type_: _description_
+"""
 import requests
 from json import dump
-from pprint import pp
 import html2text
 
-
-BLOG_URL = "https://codesolid.com"
 
 def posts_url(url, page):
     """Returns the URL and params for a single page of posts"""
@@ -42,11 +53,6 @@ def get_post_categories(index_list, categories_dict):
     return cat_strings
 
 
-
-
-# with open('all_posts_ordered.json', mode='wt') as f:
-#     dump(posts, f)
-
 def get_word_count(post):
     html = post["content"]["rendered"]
     text = html2text.html2text(html)
@@ -68,25 +74,15 @@ def massage_downloaded_posts(posts, categories):
     return massaged
 
 def get_massaged_posts():
+    BLOG_URL = "https://codesolid.com"
     categories_dict = get_blog_categories(BLOG_URL)
     posts = get_posts(BLOG_URL)
     return massage_downloaded_posts(posts, categories_dict)
 
-def make_csv(l):
-    l.join
-def get_csv(massaged_posts):
-    csv = "title,url,date,categories,word_count\n"
-    for post in massaged_posts:
-        # tokens = [post["title"], {post["url"], {post["date"]},
-        csv += f'\"{post["title"]}\",\"{post["url"]}\",\"{post["date"]}\",\"{post["categories"]}\",\"{post["word_count"]}\"\n'
-    return csv
-    
+def save_posts_json(posts):
+    with open('all_posts.json', mode='wt') as f:
+         dump(posts, f)
 
-posts = get_massaged_posts()
-csv = get_csv(posts)
-print(csv)
-
-
-
-
-
+if __name__ == "__main__":
+    posts = get_massaged_posts()
+    save_posts_json(posts)

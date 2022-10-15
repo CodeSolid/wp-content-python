@@ -7,3 +7,4 @@ notes.md
 venv
 .venv
 *.txt
+.ipynb_checkpoints
