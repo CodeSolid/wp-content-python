@@ -8,3 +8,4 @@ venv
 .venv
 *.txt
 .ipynb_checkpoints
+*.tgz
