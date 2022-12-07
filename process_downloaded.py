@@ -13,8 +13,9 @@ from download import POSTS_FILE, CATEGORIES_FILE
 CSV_OUTPUT = "reports/all_posts.csv"
 JSON_OUTPUT = "all_posts.json"
 
-def get_post_categories(index_list, categories_dict):    
-    cat_strings = [categories_dict[str(index)] for index in index_list]
+def get_post_categories(index_list, categories_dict):   
+
+    cat_strings = [categories_dict.get(str(index), "Python Practice") for index in index_list]
     return cat_strings
 
 def get_word_count(post):

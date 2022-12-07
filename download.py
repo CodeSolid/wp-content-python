@@ -34,9 +34,10 @@ def get_posts(url):
     all_posts = []
     page = 1
     while True:    
-        url, params = posts_url(url, page)
+        formatted_url, params = posts_url(url, page)
         page = page + 1
-        r  = requests.get(url, params=params)
+        print(f"Getting url: {formatted_url} with params {params}...")
+        r  = requests.get(formatted_url, params=params)
         if r.status_code != 200:
             break        
         json = r.json()
@@ -48,7 +49,8 @@ def save_json(filename, json_dict):
          dump(json_dict, f)
 
 if __name__ == "__main__":
-    posts = get_posts(BLOG_URL)
-    save_json(POSTS_FILE, posts)
     categories = get_blog_categories(BLOG_URL)
     save_json(CATEGORIES_FILE, categories)
+
+    posts = get_posts(BLOG_URL)
+    save_json(POSTS_FILE, posts)
