@@ -1,5 +1,6 @@
 
-python download.py && \
+# python download.py && \
+python async_download.py && \
 python process_downloaded.py
 cd reports
 jupyter nbconvert --to notebook --execute PostStatistics.ipynb
